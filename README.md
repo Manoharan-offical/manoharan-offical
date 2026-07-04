@@ -33,18 +33,6 @@
  
 ---
  
-### 🚀 Featured Projects
- 
-> ✏️ *Replace the details below with your actual projects and repo links.*
- 
-| Project | Description | Tech Stack |
-|---|---|---|
-| 🔹 **Project Name 1** | One-line description of what it does | Python, ... |
-| 🔹 **Project Name 2** | One-line description of what it does | Java, ... |
-| 🔹 **Project Name 3** | One-line description of what it does | C, ... |
- 
----
- 
 ### 📜 Certifications
  
 - ☁️ **IBM Cognos Analytics** — IBM (2025)
