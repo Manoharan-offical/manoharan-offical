@@ -14,10 +14,28 @@
 - 🔭 Currently building my skills in **Software Engineering**
 - 🌱 Learning: **DSA, C, Java, Python**
 - 💼 Looking for: **Software Developer / Data Analyst Internships**
-- 🎨 Also skilled in **UI/UX Design**
-- 📫 Reach me at: **manoharan.offical@gmail.com**
+- 🎨 Also skilled in **UI/UX Design**,**AI&ML**
+- 📫 Reach me at: **manoharan.offical@gmail.com**## Tech Stack
 ---
+
+ ### ✏️ Projects
  
+****| Project | Description | Tech Stack |
+|---|---|---|
+| 🔹 **Project Name 1** | **AI DOCUMENT Q&A CHATBOT | **TECH STACK** |
+| TECH STACK -Layer | Technology |
+|---|---|
+| Backend | FastAPI (Python) |
+| Vector Database | ChromaDB (with built-in lightweight embeddings) |
+| LLM | Groq API (Llama 3.1) |
+| PDF Processing | pdfplumber |
+| Text Chunking | LangChain Text Splitters |
+| Frontend | Streamlit |
+| Backend Deployment | Render |
+| Frontend Deployment | Streamlit Community Cloud |
+| Version Control | Git + GitHub |****
+
+---
 ### 🛠️ Tech Stack
  
 **Languages**
@@ -54,7 +72,7 @@
 ### 🤝 Connect With Me
  
 <p align="center">
-  <a href="https://www.linkedin.com/in/maheetharan-k-565ba3333" target="_blank">
+  <a href="https://www.linkedin.com/in/manoharan-k-9928b1418?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:manoharan.offical@gmail.com">
