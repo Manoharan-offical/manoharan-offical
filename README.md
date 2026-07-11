@@ -20,9 +20,10 @@
 
  ### ✏️ Projects
  
-****| Project | Description | Tech Stack |
+| Project | Description | Tech Stack |
 |---|---|---|
 | 🔹 **Project Name 1** | **AI DOCUMENT Q&A CHATBOT | **TECH STACK** |
+
 | TECH STACK -Layer | Technology |
 |---|---|
 | Backend | FastAPI (Python) |
@@ -33,7 +34,7 @@
 | Frontend | Streamlit |
 | Backend Deployment | Render |
 | Frontend Deployment | Streamlit Community Cloud |
-| Version Control | Git + GitHub |****
+| Version Control | Git + GitHub |
 
 ---
 ### 🛠️ Tech Stack
